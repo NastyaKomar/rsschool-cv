@@ -1,5 +1,5 @@
 ## Anastasia Komar
----
+
 #### Junior Frontend Developer
 ---
 #### Contact information:
