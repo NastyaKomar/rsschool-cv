@@ -48,5 +48,5 @@ async function getWeather(place) {
 ---
 #### Languages:
 + Russian - Native
-+ Englesh - Elementary 
++ English - Elementary 
 
