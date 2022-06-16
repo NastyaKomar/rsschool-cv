@@ -162,6 +162,7 @@ aside{
 }
 .grid{
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: space-between;
 }
 .grid__block{
@@ -170,6 +171,9 @@ aside{
 .grid__block:hover{
 	box-shadow:0 0 15px rgb(80, 73, 73);
 	transform: scale(0.9);
+}
+code{
+	white-space: pre-wrap;
 }
 .code__example pre{
 	padding-top: 0;
