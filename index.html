@@ -170,7 +170,7 @@
 						<h3>Code Example</h3>
 					</div>
 					<pre><code class="javascript">async function getWeather(place) {
-  url = `https://api?q=${place}`;
+  url = `https://api?q={place}`;
   res = await fetch(url);
   const data = await res.json();
   render(data)
