@@ -111,6 +111,9 @@ aside{
 .section__link{
 	position: relative;
 }
+.rss:hover {
+  text-decoration: underline;
+}
 .section__list{
 	padding-left: 1.5rem;
 }
@@ -167,6 +170,9 @@ aside{
 }
 .grid__block{
 	transition: all 0.3s linear;
+}
+.grid__block img{
+  height: 170px;
 }
 .grid__block:hover{
 	box-shadow:0 0 15px rgb(80, 73, 73);
